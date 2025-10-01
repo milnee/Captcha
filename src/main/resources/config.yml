@@ -1,0 +1,10 @@
+active: true
+op-bypass: false
+failed-attempts: 5
+failed-attempts-kick: 'You have been kicked after too many failed attempts.'
+timeout: 30
+timeout-kick: 'Your time to complete has run out.'
+permission-denied: '&cPermission denied.'
+config-reloaded: '&aThe config has been reloaded.'
+# note: the placeholder {state} gets replaced with &aenabled (green) or &cdisabled (red)
+captcha-toggle: '&7The captcha has been {state}&7.'

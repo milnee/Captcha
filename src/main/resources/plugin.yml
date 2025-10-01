@@ -1,0 +1,6 @@
+name: Captcha
+main: me.millen.captcha.plugin.Captcha
+version: '1'
+commands:
+  captcha:
+    description: Manage captcha
